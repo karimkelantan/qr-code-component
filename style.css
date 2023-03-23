@@ -34,9 +34,10 @@ body {
   border-radius: 20px;
 }
 
-.qrcontain h2 {
+.qrcontain h1 {
   text-align: center;
   color: hsl(218, 44%, 22%);
+  font-size: 23px;
 }
 
 .qrcontain p {
